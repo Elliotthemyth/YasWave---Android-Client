@@ -1,0 +1,6 @@
+{
+  "name": "YASWAVE",
+  "description": "Polished Android music player with native library management, synchronized lyrics, audio visualizer, metadata diagnostic tools, and Persian RTL support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
